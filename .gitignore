@@ -1,0 +1,8 @@
+/vendor/
+/.env
+/storage/logs/*.log
+/public/uploads/students/*
+/public/uploads/teachers/*
+!/public/uploads/students/.gitkeep
+!/public/uploads/teachers/.gitkeep
+.DS_Store
